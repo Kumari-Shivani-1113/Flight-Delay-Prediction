@@ -208,8 +208,7 @@ flight-delay-prediction/
 
 ## 👤 About
 
-**Kumari Shivani Fnu** — MS Information Systems  
-Project completed as part of IS669 Big Data coursework.
+**Kumari Shivani** — MS Information Systems  
 
 ---
 
