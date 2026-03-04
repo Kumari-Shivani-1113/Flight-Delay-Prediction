@@ -1,5 +1,3 @@
-# Flight-Delay-Prediction
-End-to-end flight delay prediction using AWS EMR/Hive for big data processing and Logistic Regression in Python — 180K records, 90%+ accuracy
 # ✈️ Big Data Flight Delay Prediction
 ### IS669 Group Project — Kumari Shivani Fnu
 
@@ -216,4 +214,3 @@ Project completed as part of IS669 Big Data coursework.
 ---
 
 *Data sourced from the Harvard Dataverse Airline On-Time Performance dataset.*
-
